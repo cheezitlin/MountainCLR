@@ -24,4 +24,4 @@ Here is a preview:
 
 ![i am too lazy to keep typing these, just reload.](ksystemsettingsinstallfromfile.png)
 
-- 5: select mountainCLR.zip.
+- 5: unzip mountainCLR.zip, then select mountainCLR.colors.
